@@ -1,0 +1,20 @@
+.container-side{
+    width: max;
+	background-color: #f8f9fa;;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.side-menu-header{
+    font-weight: 600;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+.side-menu-item {
+    list-style-type: none;
+    text-decoration-style: none;
+    width: 100%;
+}
